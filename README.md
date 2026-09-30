@@ -7,7 +7,7 @@ I bring a background in Big Four financial audit and risk,
 combined with hands-on experience in data analytics and
 growing AWS cloud expertise.
 
-## 🔍 What I'm currently focused on
+## What I'm currently focused on
 
 ☁️ AWS Cloud Governance & Security  
 💰 FinOps & Cloud Cost Optimization  
@@ -15,7 +15,7 @@ growing AWS cloud expertise.
 📊 Data Analytics & Risk Analytics  
 🔐 IAM, CloudTrail, Config & CloudWatch  
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Cloud:** AWS (S3, IAM, EC2, CloudTrail, CloudWatch, Config, Athena, Glue)
 
@@ -24,7 +24,7 @@ growing AWS cloud expertise.
 **Risk & Governance:** IT Controls | Audit | Risk Assessment |
 Cloud Governance | Compliance
 
-## 🚀 Current Projects
+## Current Projects
 
 ### AWS Cloud Governance Lab
 Building governance controls around IAM, logging, monitoring,
