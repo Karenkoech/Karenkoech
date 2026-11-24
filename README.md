@@ -99,11 +99,11 @@ Python, Pandas, SQL, PostgreSQL, Power BI, Advanced Excel, Power Query and Git.
 
 ## Education & Professional Development
 
-- BSc Economics and Statistics — Kenyatta University
-- Full-Stack Software Development — Moringa School (Distinction)
-- Data Analytics & Artificial Intelligence — LuxDevHQ
+- BSc Economics and Statistics |Kenyatta University
+- Full-Stack Software Development|Moringa School (Distinction)
+- Data Analytics & Artificial Intelligence|LuxDevHQ
 - AWS re/Start Cloud Computing Programme
-- CISA Examination Preparation — In Progress
+- CISA Examination Preparation|In Progress
 
 ## Let's Connect
 
