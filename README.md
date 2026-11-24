@@ -1,11 +1,8 @@
-# Hi, I'm Caren 👋
+# About Me
 
-I am an Audit, Risk & Data professional transitioning into
-Cloud Governance and FinOps.
+Audit, Risk and Data Analytics professional with nearly four years of combined experience, including Big Four audit and assurance at KPMG East Africa.
 
-I bring a background in Big Four financial audit and risk,
-combined with hands-on experience in data analytics and
-growing AWS cloud expertise.
+I combine risk-based thinking, cloud technologies and data analytics to develop practical solutions that strengthen internal controls, improve governance and support business decision-making.
 
 ## What I'm currently focused on
 
@@ -15,14 +12,11 @@ growing AWS cloud expertise.
 📊 Data Analytics & Risk Analytics  
 🔐 IAM, CloudTrail, Config & CloudWatch  
 
-## Tools & Technologies
+Cloud: AWS IAM, EC2, S3, CloudTrail, CloudWatch, Config, Glue, Athena
 
-**Cloud:** AWS (S3, IAM, EC2, CloudTrail, CloudWatch, Config, Athena, Glue)
+Analytics: Python, Pandas, PostgreSQL, Power BI, Excel, Power Query
 
-**Data:** SQL | Python | Power BI | Advanced Excel
-
-**Risk & Governance:** IT Controls | Audit | Risk Assessment |
-Cloud Governance | Compliance
+Enterprise Systems: SAP S/4HANA, Microsoft Dynamics NAV, Sage 300
 
 ## Current Projects
 
@@ -42,10 +36,5 @@ transaction and fraud-risk data.
 Power BI dashboard for monitoring risk indicators,
 exceptions and control performance.
 
-## 🎯 Currently Learning
-
-- AWS Cloud Practitioner
-- AWS Cloud Governance
-- FinOps
-- CISA
-- Python for automation and analytics
+Lets connect
+https://www.linkedin.com/in/caren-chepkorir-/
