@@ -2,8 +2,8 @@
 
 ### Technology Risk | IT Audit | Cloud Governance | Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/caren-chepkorir-/)
-![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-34495E?style=flat-square)
+[![LinkedIn](https://www.linkedin.com/in/caren-chepkorir-/)
+
 
 ## About Me
 
